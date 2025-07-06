@@ -77,4 +77,4 @@ MIT License
 
 ## ✍️ Author
 
-- Your Name
+- Aditya Narvadeshwar Singh
