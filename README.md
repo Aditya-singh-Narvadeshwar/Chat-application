@@ -41,6 +41,7 @@ chat-app/
 cd chat-app
 
 # Install dependencies
+npm -y init
 npm install
 
 # Start the server
