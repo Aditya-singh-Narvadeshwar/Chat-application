@@ -58,15 +58,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots inside the `screenshot/` folder and link them here, for example:
-
-```
-![Chat UI](screenshot/chat-ui.png)
-```
-
----
 
 ## 📦 Built With
 
