@@ -38,7 +38,7 @@ chat-app/
 
 ```bash
 # Clone the repository or extract the zip
-cd chat-appilcation
+cd Chat-appilcation
 
 # Install dependencies
 npm -y init
